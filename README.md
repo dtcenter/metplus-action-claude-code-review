@@ -106,6 +106,6 @@ The token is tied to the Claude subscription of the person who generated it,
 and usage from every repository that calls this action counts against that
 person's account.
 
-GitHub withholds repository secrets from `pull_request` runs for pull
+GitHub withholds secrets from `pull_request` runs for pull
 requests opened from a fork of a public repository, so no review runs for
 those.
